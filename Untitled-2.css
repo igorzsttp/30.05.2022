@@ -1,0 +1,47 @@
+.a::first-letter{
+    font-size: 40px;
+    margin: 5px;
+    padding: 5px;
+    background-color: yellow;
+    border: solid 2px red;
+    color: red;
+}
+.a:second-letter{
+    font-size: 40px;
+    margin: 5px;
+    padding: 5px;
+    background-color: yellow;
+    border: solid 2px red;
+    color: red;
+}
+.a::first-line{
+    font-family: cambria;
+    font-size: 12px;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-decoration: underline;
+}
+
+.a2::first-letter{
+    font-family: curlz MT;
+    font: 60px;
+    margin: 5px;
+    padding: 5px;
+    background-color: yellow;
+    border: 1px solid red;
+    color: black;
+}
+.a::first-line{
+    font-family: jokerman;
+    font-size: 20px;
+    background-color: white;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-decoration: underline;}
+
+img{float: left;
+height: 60px;
+width: 40px;}
+body{
+    background-color: #f9f2ec;
+}
